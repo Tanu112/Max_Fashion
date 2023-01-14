@@ -1,7 +1,7 @@
 # Max_Fashion
 Ecommerce Website done using html,css and php
 
-#Functional Description
+#Functional_Description
 Client side – Email verification, View order
 Server side – Signup and Login, Customer care, Product details, Account details, shopping details.
 
