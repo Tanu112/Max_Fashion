@@ -14,7 +14,7 @@ Php- server-side scripting.
 # Details of database table
 
 Max fashion
-accountdetails (AccountNumber, AccountHolder, CV`,ExpiryDate, Expiryyear, BalanceAmount)
+accountdetails (AccountNumber, AccountHolder, CV`,ExpiryDate, Expiryyear, BalanceAmount) &nbsp;
 productdetails (product id,pro name,quantity,price)
 customercare (Name,email Id,Phone,Message)
 shopping (Name, ProductId, Quantity, Amount, Address,
