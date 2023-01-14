@@ -14,11 +14,10 @@ Php- server-side scripting.
 # Details of database table
 
 Max fashion
- accountdetails (AccountNumber, AccountHolder, CV`,
-ExpiryDate, Expiryyear, BalanceAmount)
- productdetails (product id,pro name,quantity,price)
- customercare (Name,email Id,Phone,Message)
- shopping (Name, ProductId, Quantity, Amount, Address,
+accountdetails (AccountNumber, AccountHolder, CV`,ExpiryDate, Expiryyear, BalanceAmount)
+productdetails (product id,pro name,quantity,price)
+customercare (Name,email Id,Phone,Message)
+shopping (Name, ProductId, Quantity, Amount, Address,
 PhoneNumber, Email)
- signup (Username, Password, Email, Address)
- speakyourmind (Firstname, Lastname, Email, Slogantshirt)
+signup (Username, Password, Email, Address)
+speakyourmind (Firstname, Lastname, Email, Slogantshirt)
