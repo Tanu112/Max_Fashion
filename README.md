@@ -1,17 +1,17 @@
 # Max_Fashion
 Ecommerce Website done using html,css and php
 
-#Functional_Description
+# Functional_Description
 Client side – Email verification, View order
 Server side – Signup and Login, Customer care, Product details, Account details, shopping details.
 
-#Tools and Techniques:
+# Tools and Techniques:
 Html, Css, Php.
 Html - tables, images, forms, basic html tags
 CSS - internal css, external css
 Php- server-side scripting.
 
-#Details of database table
+# Details of database table
 
 Max fashion
  accountdetails (AccountNumber, AccountHolder, CV`,
